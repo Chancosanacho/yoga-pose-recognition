@@ -1,0 +1,9 @@
+__pycache__/
+cached_keypoints/
+dataset/
+env_yoga_py310/
+*.mp4
+*.npy
+*.dll
+*.pyd
+*.h5
